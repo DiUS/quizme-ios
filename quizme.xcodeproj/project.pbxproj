@@ -7,12 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		35853128725C4A386E0F7477 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE1D14D6C2B4D90C8BECB09D /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		9C0187271A9E8B2C00A83296 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0187261A9E8B2C00A83296 /* AppDelegate.swift */; };
 		9C0187291A9E8B2C00A83296 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0187281A9E8B2C00A83296 /* ViewController.swift */; };
 		9C01872C1A9E8B2C00A83296 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C01872A1A9E8B2C00A83296 /* Main.storyboard */; };
 		9C01872E1A9E8B2C00A83296 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C01872D1A9E8B2C00A83296 /* Images.xcassets */; };
 		9C0187311A9E8B2C00A83296 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C01872F1A9E8B2C00A83296 /* LaunchScreen.xib */; };
 		9C01873D1A9E8B2C00A83296 /* quizmeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C01873C1A9E8B2C00A83296 /* quizmeTests.swift */; };
+		9C0187551A9E8DB900A83296 /* airplane.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187491A9E8DB900A83296 /* airplane.gif */; };
+		9C0187561A9E8DB900A83296 /* barn.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874A1A9E8DB900A83296 /* barn.gif */; };
+		9C0187571A9E8DB900A83296 /* cherry.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874B1A9E8DB900A83296 /* cherry.gif */; };
+		9C0187581A9E8DB900A83296 /* cup.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874C1A9E8DB900A83296 /* cup.gif */; };
+		9C0187591A9E8DB900A83296 /* duck.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874D1A9E8DB900A83296 /* duck.gif */; };
+		9C01875A1A9E8DB900A83296 /* hanger.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874E1A9E8DB900A83296 /* hanger.gif */; };
+		9C01875B1A9E8DB900A83296 /* horse.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C01874F1A9E8DB900A83296 /* horse.gif */; };
+		9C01875C1A9E8DB900A83296 /* kangaroo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187501A9E8DB900A83296 /* kangaroo.gif */; };
+		9C01875D1A9E8DB900A83296 /* podium.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187511A9E8DB900A83296 /* podium.gif */; };
+		9C01875E1A9E8DB900A83296 /* pretzel.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187521A9E8DB900A83296 /* pretzel.gif */; };
+		9C01875F1A9E8DB900A83296 /* pyramid.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187531A9E8DB900A83296 /* pyramid.gif */; };
+		9C0187601A9E8DB900A83296 /* robber.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187541A9E8DB900A83296 /* robber.gif */; };
+		9C0187621A9E93BD00A83296 /* bicycle-05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187611A9E93BD00A83296 /* bicycle-05.jpg */; };
+		9C0187641A9EA27300A83296 /* quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0187631A9EA27300A83296 /* quiz.swift */; };
+		9C0187661A9EA56900A83296 /* Elliott_Murray_SML.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187651A9EA56900A83296 /* Elliott_Murray_SML.jpg */; };
+		9C0187681A9EA63100A83296 /* EM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C0187671A9EA63100A83296 /* EM.jpg */; };
+		9C0DF5E01A9EB64700A42DB2 /* httpQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0DF5DF1A9EB64700A42DB2 /* httpQuiz.swift */; };
+		9C0DF5E41A9ED2D700A42DB2 /* LanguageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0DF5E31A9ED2D700A42DB2 /* LanguageController.swift */; };
+		9C0DF5E91A9ED92200A42DB2 /* italian.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C0DF5E51A9ED92200A42DB2 /* italian.jpg */; };
+		9C0DF5EA1A9ED92200A42DB2 /* france.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C0DF5E61A9ED92200A42DB2 /* france.png */; };
+		9C0DF5EB1A9ED92200A42DB2 /* dius.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C0DF5E71A9ED92200A42DB2 /* dius.png */; };
+		9C0DF5EC1A9ED92200A42DB2 /* germany.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C0DF5E81A9ED92200A42DB2 /* germany.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +49,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		561C33AA5AAFD6B8F48D7CDD /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		92AE47C6F016E40F07B7A763 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		9C0187211A9E8B2C00A83296 /* quizme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = quizme.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C0187251A9E8B2C00A83296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C0187261A9E8B2C00A83296 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +61,29 @@
 		9C0187361A9E8B2C00A83296 /* quizmeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quizmeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C01873B1A9E8B2C00A83296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C01873C1A9E8B2C00A83296 /* quizmeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizmeTests.swift; sourceTree = "<group>"; };
+		9C0187491A9E8DB900A83296 /* airplane.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = airplane.gif; sourceTree = "<group>"; };
+		9C01874A1A9E8DB900A83296 /* barn.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = barn.gif; sourceTree = "<group>"; };
+		9C01874B1A9E8DB900A83296 /* cherry.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cherry.gif; sourceTree = "<group>"; };
+		9C01874C1A9E8DB900A83296 /* cup.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cup.gif; sourceTree = "<group>"; };
+		9C01874D1A9E8DB900A83296 /* duck.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = duck.gif; sourceTree = "<group>"; };
+		9C01874E1A9E8DB900A83296 /* hanger.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hanger.gif; sourceTree = "<group>"; };
+		9C01874F1A9E8DB900A83296 /* horse.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = horse.gif; sourceTree = "<group>"; };
+		9C0187501A9E8DB900A83296 /* kangaroo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = kangaroo.gif; sourceTree = "<group>"; };
+		9C0187511A9E8DB900A83296 /* podium.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = podium.gif; sourceTree = "<group>"; };
+		9C0187521A9E8DB900A83296 /* pretzel.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pretzel.gif; sourceTree = "<group>"; };
+		9C0187531A9E8DB900A83296 /* pyramid.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pyramid.gif; sourceTree = "<group>"; };
+		9C0187541A9E8DB900A83296 /* robber.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = robber.gif; sourceTree = "<group>"; };
+		9C0187611A9E93BD00A83296 /* bicycle-05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bicycle-05.jpg"; sourceTree = "<group>"; };
+		9C0187631A9EA27300A83296 /* quiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = quiz.swift; sourceTree = "<group>"; };
+		9C0187651A9EA56900A83296 /* Elliott_Murray_SML.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Elliott_Murray_SML.jpg; sourceTree = "<group>"; };
+		9C0187671A9EA63100A83296 /* EM.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = EM.jpg; sourceTree = "<group>"; };
+		9C0DF5DF1A9EB64700A42DB2 /* httpQuiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = httpQuiz.swift; sourceTree = "<group>"; };
+		9C0DF5E31A9ED2D700A42DB2 /* LanguageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LanguageController.swift; sourceTree = "<group>"; };
+		9C0DF5E51A9ED92200A42DB2 /* italian.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = italian.jpg; sourceTree = "<group>"; };
+		9C0DF5E61A9ED92200A42DB2 /* france.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = france.png; sourceTree = "<group>"; };
+		9C0DF5E71A9ED92200A42DB2 /* dius.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dius.png; sourceTree = "<group>"; };
+		9C0DF5E81A9ED92200A42DB2 /* germany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = germany.png; sourceTree = "<group>"; };
+		AE1D14D6C2B4D90C8BECB09D /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35853128725C4A386E0F7477 /* Pods.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,12 +105,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1665D2708A1BACB005EA669F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				92AE47C6F016E40F07B7A763 /* Pods.debug.xcconfig */,
+				561C33AA5AAFD6B8F48D7CDD /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		73ED9EFEEA849BFC30042F3B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE1D14D6C2B4D90C8BECB09D /* Pods.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		9C0187181A9E8B2B00A83296 = {
 			isa = PBXGroup;
 			children = (
 				9C0187231A9E8B2C00A83296 /* quizme */,
 				9C0187391A9E8B2C00A83296 /* quizmeTests */,
 				9C0187221A9E8B2C00A83296 /* Products */,
+				1665D2708A1BACB005EA669F /* Pods */,
+				73ED9EFEEA849BFC30042F3B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,12 +145,16 @@
 		9C0187231A9E8B2C00A83296 /* quizme */ = {
 			isa = PBXGroup;
 			children = (
+				9C0187461A9E8B3600A83296 /* images */,
 				9C0187261A9E8B2C00A83296 /* AppDelegate.swift */,
 				9C0187281A9E8B2C00A83296 /* ViewController.swift */,
 				9C01872A1A9E8B2C00A83296 /* Main.storyboard */,
 				9C01872D1A9E8B2C00A83296 /* Images.xcassets */,
 				9C01872F1A9E8B2C00A83296 /* LaunchScreen.xib */,
 				9C0187241A9E8B2C00A83296 /* Supporting Files */,
+				9C0187631A9EA27300A83296 /* quiz.swift */,
+				9C0DF5DF1A9EB64700A42DB2 /* httpQuiz.swift */,
+				9C0DF5E31A9ED2D700A42DB2 /* LanguageController.swift */,
 			);
 			path = quizme;
 			sourceTree = "<group>";
@@ -112,6 +184,32 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		9C0187461A9E8B3600A83296 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9C0DF5E51A9ED92200A42DB2 /* italian.jpg */,
+				9C0DF5E61A9ED92200A42DB2 /* france.png */,
+				9C0DF5E71A9ED92200A42DB2 /* dius.png */,
+				9C0DF5E81A9ED92200A42DB2 /* germany.png */,
+				9C0187671A9EA63100A83296 /* EM.jpg */,
+				9C0187651A9EA56900A83296 /* Elliott_Murray_SML.jpg */,
+				9C0187611A9E93BD00A83296 /* bicycle-05.jpg */,
+				9C0187491A9E8DB900A83296 /* airplane.gif */,
+				9C01874A1A9E8DB900A83296 /* barn.gif */,
+				9C01874B1A9E8DB900A83296 /* cherry.gif */,
+				9C01874C1A9E8DB900A83296 /* cup.gif */,
+				9C01874D1A9E8DB900A83296 /* duck.gif */,
+				9C01874E1A9E8DB900A83296 /* hanger.gif */,
+				9C01874F1A9E8DB900A83296 /* horse.gif */,
+				9C0187501A9E8DB900A83296 /* kangaroo.gif */,
+				9C0187511A9E8DB900A83296 /* podium.gif */,
+				9C0187521A9E8DB900A83296 /* pretzel.gif */,
+				9C0187531A9E8DB900A83296 /* pyramid.gif */,
+				9C0187541A9E8DB900A83296 /* robber.gif */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -119,9 +217,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9C0187401A9E8B2C00A83296 /* Build configuration list for PBXNativeTarget "quizme" */;
 			buildPhases = (
+				80AA3F3D9A674A2B48D20588 /* Check Pods Manifest.lock */,
 				9C01871D1A9E8B2C00A83296 /* Sources */,
 				9C01871E1A9E8B2C00A83296 /* Frameworks */,
 				9C01871F1A9E8B2C00A83296 /* Resources */,
+				980BF9E85979FB32628AEC4D /* Embed Pods Frameworks */,
+				9C831153F06A85F6911D0EB2 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -192,9 +293,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C0DF5EA1A9ED92200A42DB2 /* france.png in Resources */,
 				9C01872C1A9E8B2C00A83296 /* Main.storyboard in Resources */,
+				9C0187681A9EA63100A83296 /* EM.jpg in Resources */,
+				9C0DF5E91A9ED92200A42DB2 /* italian.jpg in Resources */,
+				9C01875E1A9E8DB900A83296 /* pretzel.gif in Resources */,
+				9C0DF5EB1A9ED92200A42DB2 /* dius.png in Resources */,
+				9C0187661A9EA56900A83296 /* Elliott_Murray_SML.jpg in Resources */,
+				9C0187561A9E8DB900A83296 /* barn.gif in Resources */,
+				9C01875D1A9E8DB900A83296 /* podium.gif in Resources */,
+				9C0187551A9E8DB900A83296 /* airplane.gif in Resources */,
+				9C0187581A9E8DB900A83296 /* cup.gif in Resources */,
 				9C0187311A9E8B2C00A83296 /* LaunchScreen.xib in Resources */,
+				9C01875B1A9E8DB900A83296 /* horse.gif in Resources */,
+				9C0DF5EC1A9ED92200A42DB2 /* germany.png in Resources */,
+				9C01875F1A9E8DB900A83296 /* pyramid.gif in Resources */,
+				9C0187601A9E8DB900A83296 /* robber.gif in Resources */,
+				9C0187621A9E93BD00A83296 /* bicycle-05.jpg in Resources */,
 				9C01872E1A9E8B2C00A83296 /* Images.xcassets in Resources */,
+				9C01875A1A9E8DB900A83296 /* hanger.gif in Resources */,
+				9C0187591A9E8DB900A83296 /* duck.gif in Resources */,
+				9C01875C1A9E8DB900A83296 /* kangaroo.gif in Resources */,
+				9C0187571A9E8DB900A83296 /* cherry.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,6 +327,54 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		80AA3F3D9A674A2B48D20588 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		980BF9E85979FB32628AEC4D /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9C831153F06A85F6911D0EB2 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		9C01871D1A9E8B2C00A83296 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -214,6 +382,9 @@
 			files = (
 				9C0187291A9E8B2C00A83296 /* ViewController.swift in Sources */,
 				9C0187271A9E8B2C00A83296 /* AppDelegate.swift in Sources */,
+				9C0DF5E41A9ED2D700A42DB2 /* LanguageController.swift in Sources */,
+				9C0DF5E01A9EB64700A42DB2 /* httpQuiz.swift in Sources */,
+				9C0187641A9EA27300A83296 /* quiz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +505,7 @@
 		};
 		9C0187411A9E8B2C00A83296 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92AE47C6F016E40F07B7A763 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = quizme/Info.plist;
@@ -344,6 +516,7 @@
 		};
 		9C0187421A9E8B2C00A83296 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 561C33AA5AAFD6B8F48D7CDD /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = quizme/Info.plist;
@@ -405,6 +578,7 @@
 				9C0187421A9E8B2C00A83296 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C0187431A9E8B2C00A83296 /* Build configuration list for PBXNativeTarget "quizmeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +587,7 @@
 				9C0187451A9E8B2C00A83296 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
